@@ -1,0 +1,15 @@
+{
+  "name": "fuzzy",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/biewxw/fuzzy.git",
+  "author": "Gabriel <gabrieldeoliveira.gdo23@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
